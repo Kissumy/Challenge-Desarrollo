@@ -1,0 +1,60 @@
+[
+  {
+    "db_name": "test_all_data",
+    "owner_email": "owner1@example.com",
+    "classification": "medium"
+  },
+  {
+    "db_name": "test_all_data_classification_High",
+    "owner_email": "owner1@example.com",
+    "classification": "high"
+  },
+  {
+    "db_name": "test_all_data_manager_not_on_csv",
+    "owner_email": "estaeslaprueba@example.com",
+    "classification": "high"
+  },
+  {
+    "db_name": "test_no_clasification",
+    "owner_email": "owner1@example.com"
+  },
+  {
+    "db_name": "test_no_owner",
+    "classification": "low"
+  },
+  {
+    "db_name": "test_no_owner_classification_High",
+    "classification": "high"
+  },
+  {
+    "db_name":"",
+    "owner_email": "",
+    "classification": "",
+    "inexistent": "test with inexistent data"
+  },
+  {
+    "db_name": "customer_data_3",
+    "owner_email": "dcristancho205@gmail.com",
+    "classification": "high"
+  },
+  {
+    "db_name": "sales_data",
+    "owner_email": "owner32@example.com",
+    "classification": "medium"
+  },
+  {
+    "db_name": "sales_data",
+    "owner_email": "owner32@example.com",
+    "classification": "medium"
+  },
+  {
+    "db_name": "inventory_data",
+    "owner_email": "owner3@example.com",
+    "classification": "low"
+  },
+  {
+    "db_name": "financial_data",
+    "owner_email": "owner4@example.com",
+    "classification": "High"
+  }
+]

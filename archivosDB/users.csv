@@ -1,0 +1,6 @@
+row_id,user_id,user_state,user_manager
+1,owner1@example.com,active,dcristancho205@gmail.com
+2,owner2@example.com,active,dcristancho205@gmail.com
+3,owner3@example.com,active,dcristancho205@gmail.com
+4,owner4@example.com,active,dcristancho205@gmail.com
+5,dcristancho205@gmail.com,active,dcristancho205@gmail.com

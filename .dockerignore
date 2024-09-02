@@ -1,0 +1,39 @@
+# Ignorar archivos y carpetas relacionadas con Git
+.git
+.gitignore
+
+# Ignorar archivos y carpetas relacionadas con Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+venv/
+ENV/
+env/
+*.egg-info/
+.eggs/
+
+# Ignorar archivos de configuración y credenciales locales
+.env
+*.env
+*.local
+
+# Ignorar configuraciones de editor
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar archivos de log y de estado de ejecución
+*.log
+*.pid
+*.out
+*.coverage
+*.cache
+.nosetests
+coverage.xml
+
+# Ignorar data generada que no deba incluirse en la imagen
+data/
